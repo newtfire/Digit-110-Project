@@ -70,7 +70,7 @@ and I return it to you
 
 * Since you've been preserving the hyphenation at the ends of lines, you should have `it-self.`, instead of "itself." as the last word of the last paragraph.
 
-* In the close of the letter, you have "Sincerly yours," but it reads `Sincerely yours,'
+* In the close of the letter, you have "Sincerly yours," but it reads `Sincerely yours,`
 
 We wish the transcription work had been done more carefully! This is why we asked each team to appoint a Quality Control Manager to double-check things like skipped lines. A few of these errors are understandable, but missing so much of a short typescript letter really indicates that something fell through the cracks for this team in checking your work. 
 
