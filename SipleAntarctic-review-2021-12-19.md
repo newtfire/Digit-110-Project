@@ -78,7 +78,7 @@ I hope that one of you will make corrections, but if not it will have to be a fu
 
 I notice on inspecting your GitHub repo that Graesyn *did* correct a couple of the long errors on an HTML page that is *not linked from the navigation menu of your website*: Graesyn's corrections were made to the HTML file `breakdown.html` rather than to the page actually linked, `transcription.html`. This raises a couple of team project and file management issues:
 
-1. You should not be maintaining two different HTML pages that contain the same content to limit confusion! 
+1. To prevent confusions like this, you should not be maintaining two different HTML pages that contain the same content! 
 2. If you make the corrections in the source XML file, that is less brittle. The HTML is only a display view and those files should be considered less stable and more temporary, since they are produced by transforming the XML. 
 
 ### Documenting the Code
